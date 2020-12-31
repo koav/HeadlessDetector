@@ -301,7 +301,7 @@ const tests = [
   { name: "Mime Prototype",    id: "mime-prototype",    testFunction: testMimePrototype    },
   { name: "Languages",         id: "languages",         testFunction: testLanguages        },
   { name: "Webdriver",         id: "webdriver",         testFunction: testWebdriver        },
-  { name: "Time Elapse",       id: "time-elapse",       testFunction: testTimeElapse       },
+  //{ name: "Time Elapse",       id: "time-elapse",       testFunction: testTimeElapse       },
   { name: "Chrome",            id: "chrome-element",    testFunction: testChrome           },
   { name: "Permission",        id: "permission",        testFunction: testPermission       },
   { name: "Devtool Protocol",  id: "devtool",           testFunction: testDevtool          },
